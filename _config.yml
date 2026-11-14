@@ -1,0 +1,24 @@
+title: The Half-Space
+tagline: Soccer tactics, explained simply.
+description: Formations, patterns and ideas about how the game is played, broken down one diagram at a time.
+author: Akhil
+about: "[A short line about you: who you are and why you write about tactics.]"
+
+# Leave these as-is for a repo named <username>.github.io.
+# For any other repo name, set baseurl to "/<repo-name>".
+url: ""
+baseurl: ""
+
+categories_list: [Tactics, Ideas, Match Analysis]
+
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope: { path: "", type: posts }
+    values: { layout: post }
+
+exclude: [README.md, POST-TEMPLATE.md]

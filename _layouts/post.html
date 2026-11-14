@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<article class="article">
+  <a class="back" href="{{ '/' | relative_url }}">
+    <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M15 6l-6 6 6 6"/></svg>
+    All articles
+  </a>
+  <span class="tag tag-oat">{{ page.category }}</span>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary %}<p class="lede">{{ page.summary }}</p>{% endif %}
+  <p class="muted small">{% include meta.html post=page %}</p>
+
+  {% if page.image %}
+  <figure class="figure">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.image_caption | default: '' }}">
+    {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+  </figure>
+  {% endif %}
+
+  <div class="prose">
+    {{ content }}
+  </div>
+
+  {% if page.previous or page.next %}
+  <nav class="pager" aria-label="More articles">
+    {% if page.previous %}<a class="card" href="{{ page.previous.url | relative_url }}"><span class="muted small">Previous</span><span class="pager-title">{{ page.previous.title }}</span></a>{% endif %}
+    {% if page.next %}<a class="card right" href="{{ page.next.url | relative_url }}"><span class="muted small">Next</span><span class="pager-title">{{ page.next.title }}</span></a>{% endif %}
+  </nav>
+  {% endif %}
+</article>

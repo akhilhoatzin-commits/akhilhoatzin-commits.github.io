@@ -1,0 +1,55 @@
+---
+layout: default
+---
+<main class="wrap">
+  <section class="hero">
+    <p class="muted small">A new piece every week</p>
+    <h1>{{ site.tagline }}</h1>
+    <p class="lede">{{ site.description }}</p>
+  </section>
+
+  {% assign featured = site.posts | where: "featured", true | first %}
+  {% unless featured %}{% assign featured = site.posts | first %}{% endunless %}
+  {% if featured %}
+  <a class="featured card" href="{{ featured.url | relative_url }}">
+    <div class="featured-art">
+      {% if featured.image %}<img src="{{ featured.image | relative_url }}" alt="">{% else %}{% include pitch.html %}{% endif %}
+    </div>
+    <div class="featured-text">
+      <span class="tag tag-oat">Featured · {{ featured.category }}</span>
+      <h2>{{ featured.title }}</h2>
+      {% if featured.summary %}<p class="soft">{{ featured.summary }}</p>{% endif %}
+      <span class="muted small">{% include meta.html post=featured %}</span>
+    </div>
+  </a>
+  {% endif %}
+
+  <section id="posts" class="posts">
+    <div class="posts-head">
+      <h2>Latest</h2>
+      <div class="filters" role="group" aria-label="Filter by category">
+        <button type="button" class="pill" data-cat="All" aria-pressed="true">All</button>
+        {% for c in site.categories_list %}<button type="button" class="pill" data-cat="{{ c }}" aria-pressed="false">{{ c }}</button>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="grid">
+      {% for post in site.posts %}
+      <a class="card post-card" href="{{ post.url | relative_url }}" data-cat="{{ post.category }}">
+        <span class="tag">{{ post.category }}</span>
+        <h3>{{ post.title }}</h3>
+        <span class="muted small">{% include meta.html post=post %}</span>
+      </a>
+      {% endfor %}
+    </div>
+    <p class="empty muted" hidden>No articles in this category yet.</p>
+  </section>
+
+  <section id="about" class="about">
+    <div>
+      <h2>About</h2>
+      <p class="soft">{{ site.about }}</p>
+    </div>
+    <a class="btn-dark" href="{{ '/feed.xml' | relative_url }}">Follow via RSS</a>
+  </section>
+</main>
