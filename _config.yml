@@ -6,7 +6,7 @@ about: "[A short line about you: who you are and why you write about tactics.]"
 
 # Leave these as-is for a repo named <username>.github.io.
 # For any other repo name, set baseurl to "/<repo-name>".
-url: ""
+url: "https://akhilhoatzin-commits.github.io"
 baseurl: ""
 
 categories_list: [Tactics, Ideas, Match Analysis]
@@ -16,6 +16,11 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Google Search Console verification (output by jekyll-seo-tag)
+webmaster_verifications:
+  google: VOu-bWnhjQNN83gB41ddvx-KtNm2W8TZE1ErLrIbxIY
 
 defaults:
   - scope: { path: "", type: posts }
