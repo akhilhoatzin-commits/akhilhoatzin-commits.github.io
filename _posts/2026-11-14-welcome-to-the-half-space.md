@@ -1,14 +1,14 @@
 ---
 title: "Welcome to The Half-Space"
 category: Ideas
-summary: "What this blog is, and what to expect each week."
+summary: "Hi, and welcome!"
 featured: true
 ---
 
-[Replace this with your first post. A quick intro works well: who you are, why you're writing about tactics, and what kinds of articles readers can expect each week.]
+In this blog, we'll cover all kinds of tactics and strategic ideas in soccer. Taking inspiration from brilliant sites like Spielverlagerung, we take complex *einfall* and slice them into little nuggets you can add to that hungry chest of knowledge called the brain.
 
 ## What's coming
 
-[A few lines on the first topics you plan to write about.]
+Our first article will cover space in soccer. We'll start by defining what it is, then dive into the tactics teams use to create it, with world-famous examples straight from Pep Guardiola and Louis van Gaal.
 
-> [One sentence that sums up what this blog is about.]
+I hope you learn something, or at least enjoy it!
