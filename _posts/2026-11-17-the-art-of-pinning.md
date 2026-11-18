@@ -70,7 +70,7 @@ Another version is horizontal pinning. Like vertical pinning, it relies on playe
     <img src="{{ '/assets/img/pinning/06-horizontal-narrow.svg' | relative_url }}" alt="Before: the attacking left winger stays narrow and the defending right back stays tight to him">
     <img src="{{ '/assets/img/pinning/06-horizontal-wide.svg' | relative_url }}" alt="After: the left winger moves wide, pulling the right back with him and opening the channel for the left striker to run into">
   </div>
-  <figcaption>A 4-2-4 attacking a 4-3-3. Left: the wingers stay narrow. Right: the left winger goes wide, the right back follows, and the channel opens for the striker.</figcaption>
+  <figcaption>A 4-2-4 attacking a 4-3-3. Top: the wingers stay narrow. Bottom: the left winger goes wide, the right back follows, and the channel opens for the striker.</figcaption>
 </figure>
 
 Here, the left winger moves into a wider position, which pulls the defending fullback wide with him. That opens up room in behind for the striker to attack with a run. Just like with vertical pinning, the fullback faces a hard choice. If he stays tight to his man, he leaves the space behind him for the striker to run into. If he stays back to cover that space instead, he leaves the winger open to receive the ball.

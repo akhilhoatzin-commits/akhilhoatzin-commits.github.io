@@ -111,7 +111,7 @@ figcaption { margin-top: 12px; font-size: 14px; color: var(--muted); }
 /* Article diagrams */
 .prose .figure { margin: 32px 0; padding: 16px; }
 .prose .figure img { border-radius: 14px; }
-.pair { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.pair { display: grid; grid-template-columns: 1fr; gap: 12px; }
 .legend { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-top: 12px; font-size: 13px; color: var(--muted); }
 .legend span { display: inline-flex; align-items: center; gap: 6px; }
 .legend i { display: inline-block; }
