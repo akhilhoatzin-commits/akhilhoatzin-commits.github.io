@@ -5,11 +5,11 @@ summary: "How attackers stretch a defense to create space, and how teams exploit
 featured: true
 ---
 
-This article covers several ideas about space in soccer. First, we'll define what space means on a soccer pitch. Then we'll look at different ways to create it, like pinning and using the blind side. If you're looking for more examples, videos highlighting each tactic will be added at the bottom of the page.
+This is the first in a series of articles about space in soccer. We'll start with one of the most common ways to create it: pinning. Later articles will look more closely at what space is and at other ways to create it, like using the blind side. Videos highlighting each tactic will be added at the bottom of the page.
 
 ## Pinning
 
-Stemming from Louis van Gaal's idea of *positiespel*, it's widely believed that the most important part of the pitch is the middle. In the middle, a player has a full 360 degrees of passing options, while on the wing they have only around 180 degrees, because the touchline cuts off the rest.
+A core idea of Louis van Gaal's *positiespel* is that the middle is the most important part of the pitch. A player in the middle has a full 360 degrees of passing options, while a player on the wing has only about 180, because the touchline cuts off the rest.
 
 <figure class="figure">
   <div class="pair">
@@ -27,7 +27,7 @@ Stemming from Louis van Gaal's idea of *positiespel*, it's widely believed that 
   </div>
 </figure>
 
-More options are clearly better for a team: it's harder for the defense to block all of them, which leads to faster, more fluid play. To prevent this, many teams stay compact in the center and block play through it. Pinning is a tactic where certain attackers position themselves high and wide to spread the defense out and create space for their teammates to thrive.
+More options mean faster, more fluid play, because a defense can't block them all. That's why many teams defend compactly through the center. Pinning is how attackers fight back: some players position themselves high or wide to stretch the defense and create space for their teammates.
 
 <figure class="figure">
   <img src="{{ '/assets/img/pinning/02-vertical-pinning.svg' | relative_url }}" alt="Vertical pinning: the striker pushes both center backs deep, and the attacking midfielder moves into the half-space they left behind">
@@ -36,34 +36,34 @@ More options are clearly better for a team: it's harder for the defense to block
 
 ## Vertical Pinning
 
-There are many types of pinning, and the one shown above is vertical pinning. Here, the center forward pushes the two center backs deep. The striker's positioning forces them back into their own half, leaving space where they used to be. The attacking midfielder can then step into that space, receive the ball and start an attack. Vertical pinning like this is dangerous for two reasons. The first is the one shown above, where the attacking midfielder is free to receive the ball and start an attack. The second happens when the center backs hold their line instead and leave the striker offside.
+The diagram above shows vertical pinning. The striker's position forces both center backs back toward their own goal, leaving space where they used to be. The attacking midfielder steps into that space, receives the ball and starts an attack. That's the first reason vertical pinning is dangerous. The second shows up when the center backs hold their line instead, leaving the striker offside.
 
 <figure class="figure">
   <img src="{{ '/assets/img/pinning/03-holding-the-line.svg' | relative_url }}" alt="The center backs hold their line and the striker is left offside, behind both defenders and outside their field of view">
-  <figcaption>The center backs hold their line. The shaded cones are their field of view, and the striker is outside both of them.</figcaption>
+  <figcaption>The center backs hold their line. The shaded cones show what they can see, and the striker is outside both.</figcaption>
 </figure>
 
-In this scenario, the striker has moved onto the defenders' blind side. We'll analyze the blind side in depth later, but for now, just note that the striker is essentially invisible to the center backs. That makes this position very dangerous for the defending team, because the striker is completely unmarked.
+Now the striker is on the defenders' blind side. We'll cover the blind side in depth in a later article; for now, the key point is that the center backs can't see him. He's offside for the moment, but he's also completely unmarked, and that makes him dangerous.
 
 <figure class="figure">
   <img src="{{ '/assets/img/pinning/04-over-the-top.svg' | relative_url }}" alt="The striker drifts back onside on the defenders' blind side, then runs onto a ball played over the top for a one-on-one with the goalkeeper">
   <figcaption>Unseen, the striker drifts back onside away from where the ball is headed, then runs onto a ball over the top for a one-on-one with the keeper.</figcaption>
 </figure>
 
-By losing sight of him, the defenders have let the striker wander unmarked, and here that has led to a goal-scoring chance for the attacking team.
+Because the defenders lost sight of him, the striker was free to drift back onside and run in behind for a clear chance on goal.
 
-While vertical pinning most often comes from strikers and other forwards, any player can do it. Let's go back to our earlier example.
+Vertical pinning usually comes from forwards, but any player can do it. Let's go back to our first example.
 
 <figure class="figure">
   <img src="{{ '/assets/img/pinning/05-cdm-drops.svg' | relative_url }}" alt="The opposing defensive midfielder drops deeper to cover the attacking midfielder, opening space in midfield for an attacking central midfielder">
   <figcaption>This time the defensive midfielder drops to deal with the attacking midfielder, and a central midfielder steps into the gap he leaves.</figcaption>
 </figure>
 
-Here, the attacking midfielder has again found the space created by the striker. This time, though, the opposing defensive midfielder has dropped deeper, opening up space in midfield that the attacking team can exploit. Vertical pinning can be used almost anywhere on the pitch to create space, and it's especially useful for breaking down narrow, compact teams.
+Again, the attacking midfielder finds the space the striker created. This time, though, the opposing defensive midfielder drops deeper to follow him, which opens space in midfield for an attacking central midfielder. Now the attacking midfielder is the one doing the pinning. Vertical pinning works almost anywhere on the pitch, and it's especially useful against narrow, compact teams.
 
 ## Horizontal Pinning
 
-Another version is horizontal pinning. Like vertical pinning, it relies on players positioning themselves in specific areas. The difference, as the name suggests, is that horizontal pinning exploits the width of the field.
+Horizontal pinning works the same way, but it uses the width of the pitch instead of its length.
 
 <figure class="figure">
   <div class="pair">
@@ -73,8 +73,8 @@ Another version is horizontal pinning. Like vertical pinning, it relies on playe
   <figcaption>A 4-2-4 attacking a 4-3-3. Top: the wingers stay narrow. Bottom: the left winger goes wide, the right back follows, and the channel opens for the striker.</figcaption>
 </figure>
 
-Here, the left winger moves into a wider position, which pulls the defending fullback wide with him. That opens up room in behind for the striker to attack with a run. Just like with vertical pinning, the fullback faces a hard choice. If he stays tight to his man, he leaves the space behind him for the striker to run into. If he stays back to cover that space instead, he leaves the winger open to receive the ball.
+Here, the left winger moves wide and pulls the right back with him, opening the channel between the right back and center back for the left striker to run into. As with vertical pinning, the defender faces a hard choice: follow the winger and leave the channel open, or guard the channel and leave the winger free to receive the ball.
 
 ## Conclusion
 
-Though we've only looked at pinning with forwards and wingers, pinning can happen all over the pitch. When the defending team is chasing the game, it's common to see a defender from the team in possession drop deep, as FC Barcelona did in the 2009 Champions League final. When a team wants to play more direct, fluid football, it's common to see midfielders run out to the wings, creating space in the middle while also building overloads out wide. It's up to the attacking team to spot these ideas and use them to win all three points, or to advance to the next stage of a tournament. Used well, pinning lets a team break down its opponents while playing fluid, attacking football. Many teams have adopted it, so it's no surprise that some form of pinning has found its way onto nearly every tactics board.
+We've mostly looked at pinning with forwards and wingers, but the same idea works all over the pitch. Players can also move the other way: in the 2009 Champions League final, Barcelona played Lionel Messi as a false nine, dropping deep from the striker position to pull Manchester United's center backs out of shape. Midfielders often drift out to the wings, too, opening space in the middle while creating overloads out wide. The attacking team's job is to spot these chances and use them. Done well, pinning breaks down even compact defenses while keeping play fluid and attacking, which is why some form of it appears on nearly every tactics board.
