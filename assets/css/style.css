@@ -107,3 +107,18 @@ figcaption { margin-top: 12px; font-size: 14px; color: var(--muted); }
   .brand span { font-size: 22px; }
   .about { padding: 28px; }
 }
+
+/* Article diagrams */
+.prose .figure { margin: 32px 0; padding: 16px; }
+.prose .figure img { border-radius: 14px; }
+.pair { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.legend { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-top: 12px; font-size: 13px; color: var(--muted); }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { display: inline-block; }
+.legend .att, .legend .def { width: 12px; height: 12px; border-radius: 50%; }
+.legend .att { background: var(--clay); }
+.legend .def { background: var(--slate); }
+.legend .run { width: 20px; height: 3px; border-radius: 2px; background: var(--clay); }
+.legend .pass { width: 20px; border-top: 2px dashed var(--slate); }
+.legend .space { width: 14px; height: 12px; border-radius: 3px; background: rgba(217,119,87,.18); border: 1px dashed var(--clay); }
+.legend .ghost { width: 12px; height: 12px; border-radius: 50%; border: 1.5px dashed var(--muted); }

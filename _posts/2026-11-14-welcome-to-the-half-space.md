@@ -2,7 +2,7 @@
 title: "Welcome to The Half-Space"
 category: Ideas
 summary: "Hi, and welcome!"
-featured: true
+featured: false
 ---
 
 In this blog, we'll cover all kinds of tactics and strategic ideas in soccer. Taking inspiration from brilliant sites like Spielverlagerung, we take complex *einfall* and slice them into little nuggets you can add to that hungry chest of knowledge called the brain.
